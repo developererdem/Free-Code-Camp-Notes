@@ -6,12 +6,12 @@ My freecodecamp.org notes
 Basic HTML and HTML5:Introduction to HTML Elements:
 
 ```
-main
-header
-footer
-nav
+main=Main zone
+header=(Başlık) Head Zone
+footer=Bottom Zone 
+nav=Means Gezinti(navigation)
 video
-article
+article:Article etiketi bir sayfa, uygulama ya da belgede kendi içinde bir düzen oluşturabilen bir bileşeni temsil eder.
 section
 
 ```
